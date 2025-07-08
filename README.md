@@ -1,4 +1,4 @@
-# Domain-Specific Q&A Chatbot
+# Domain-Specific Q&A Chatbot (IN PROGRESS)
 
 A smart chatbot that answers questions based on uploaded PDF documents.
 
